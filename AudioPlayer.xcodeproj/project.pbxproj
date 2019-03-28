@@ -12,6 +12,7 @@
 		A7E13E3E224D85870052B60E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7E13E3C224D85870052B60E /* Main.storyboard */; };
 		A7E13E40224D858B0052B60E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7E13E3F224D858B0052B60E /* Assets.xcassets */; };
 		A7E13E43224D858B0052B60E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7E13E41224D858B0052B60E /* LaunchScreen.storyboard */; };
+		A7E13E4B224D85E90052B60E /* mozart-piano.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A7E13E4A224D85E90052B60E /* mozart-piano.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A7E13E3F224D858B0052B60E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7E13E42224D858B0052B60E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7E13E44224D858B0052B60E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7E13E4A224D85E90052B60E /* mozart-piano.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "mozart-piano.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A7E13E38224D85870052B60E /* AppDelegate.swift */,
 				A7E13E3A224D85870052B60E /* ViewController.swift */,
 				A7E13E3C224D85870052B60E /* Main.storyboard */,
+				A7E13E4A224D85E90052B60E /* mozart-piano.mp3 */,
 				A7E13E3F224D858B0052B60E /* Assets.xcassets */,
 				A7E13E41224D858B0052B60E /* LaunchScreen.storyboard */,
 				A7E13E44224D858B0052B60E /* Info.plist */,
@@ -125,6 +128,7 @@
 				A7E13E43224D858B0052B60E /* LaunchScreen.storyboard in Resources */,
 				A7E13E40224D858B0052B60E /* Assets.xcassets in Resources */,
 				A7E13E3E224D85870052B60E /* Main.storyboard in Resources */,
+				A7E13E4B224D85E90052B60E /* mozart-piano.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
